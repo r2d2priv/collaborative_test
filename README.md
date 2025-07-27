@@ -1,6 +1,6 @@
 # Collaborative_test REPO
 ## Purpose 
-- The puspose of this repo is to teach the collaborative use of github in similar conditions. Likewise, this repo has info on the *pull*, *merge* and *diff* methods on git. 
+- The purpose of this repo is to teach the collaborative use of github in similar conditions. Likewise, this repo has info on the *pull*, *merge* and *diff* methods on git. 
 
 ## Objectives
 - First member: create a script for ordening a list on python.
